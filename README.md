@@ -1,5 +1,3 @@
-## AnormalDog
-
 ### About me
 - Computer engineering student.
 - c++ developer.
